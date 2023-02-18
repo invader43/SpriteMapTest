@@ -1,2 +1,2 @@
 * linguist-vendored
-*.gd linguist-vendored=false
+*.gd linguist-language=Java
