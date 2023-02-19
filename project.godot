@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="SpriteSheets"
-run/main_scene="res://testscene.tscn"
+run/main_scene="res://TestSceneV2.tscn"
 config/icon="res://icon.png"
 
 [gui]
